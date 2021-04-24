@@ -132,6 +132,10 @@ n1 reference object is created in stack memory
 and Hello world object is created in Heap memory
 
 
+static block is called when class is loaded
+Instance Initialization Block is called when object is created
+
+
 	
 
 
