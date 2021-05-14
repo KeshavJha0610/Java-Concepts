@@ -1,6 +1,9 @@
 package coreJava;
 
 public class StaticBlock3 {
+	
+		//How can we create objects if we make the constructor private?
+
 
 	int age;
 	
