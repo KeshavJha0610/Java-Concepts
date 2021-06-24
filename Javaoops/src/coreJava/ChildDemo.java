@@ -11,7 +11,7 @@ public class ChildDemo extends InheritanceDemo {
 	}
 	public void color()
 	{
-		System.out.println("color");
+		System.out.println(color);
 	}
 
 	public static void main(String[] args) {
