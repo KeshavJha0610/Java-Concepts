@@ -1,8 +1,7 @@
 package coreJava;
 
 public interface ContinentTraffic {
-	public void Trainsymbol();
-
+    public void trainSymbol();
 
 
 }
